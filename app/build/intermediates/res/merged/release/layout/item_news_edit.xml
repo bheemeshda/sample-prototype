@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+    <!-- Title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_marginTop="@dimen/margin_x_small"
+        android:text="@string/title"
+        android:textColor="@color/text_light_grey"
+        android:textSize="@dimen/text_x_small"/>
+
+    <EditText
+        android:id="@+id/et_news_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="18"
+        android:hint="@string/your_news_title"
+        android:inputType="textPersonName|textCapWords"
+        android:textColor="@color/color_black_light"
+        android:textColorHint="@color/color_black_light"/>
+
+    <!-- Article  -->
+    <TextView
+        android:id="@+id/tv_article"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_marginTop="@dimen/margin_medium"
+        android:text="@string/article"
+        android:textColor="@color/text_light_grey"
+        android:textSize="@dimen/text_x_small"/>
+
+    <EditText
+        android:id="@+id/et_news_article"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:ems="18"
+        android:hint="@string/your_news_article"
+        android:inputType="textAutoCorrect|textMultiLine|textLongMessage"
+        android:textColor="@color/color_black_light"
+        android:textColorHint="@color/color_black_light"
+        />
+
+</LinearLayout><!-- From: file:/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/res/layout/item_news_edit.xml -->

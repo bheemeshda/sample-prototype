@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/transparent">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:indeterminateBehavior="cycle"
+        android:indeterminateDuration="1000"
+        android:indeterminateOnly="true">
+    </ProgressBar>
+
+    <include
+        android:id="@+id/rv_error_layout"
+        layout="@layout/view_error_layout"
+        android:visibility="gone"/>
+</RelativeLayout><!-- From: file:/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/res/layout/progressbar_error_view.xml -->

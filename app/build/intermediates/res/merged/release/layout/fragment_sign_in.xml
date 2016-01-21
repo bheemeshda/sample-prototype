@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2015 Newshunt. All rights reserved. -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bt_sign_in"
+        android:layout_centerVertical="true"
+        android:fillViewport="true"
+        android:isScrollContainer="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <!-- Email -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/textview_user_title"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="@dimen/login_margin"
+            android:paddingRight="@dimen/login_margin">
+
+            <!-- Name -->
+
+            <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/ic_user_name"
+                android:ems="17"
+                android:hint="@string/user_name"
+                android:inputType="textPersonName|textCapWords"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"/>
+
+            <!-- Pass word -->
+
+            <EditText
+                android:id="@+id/et_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/et_user_name"
+                android:drawableLeft="@drawable/ic_password"
+                android:ems="17"
+                android:hint="@string/password"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"/>
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/bt_sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_sign_up"
+        android:background="@color/color_blue_color"
+        android:gravity="center"
+        android:text="@string/sign_in"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/tv_sign_up"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/dont_have_account"
+        android:textColor="@color/color_white"
+        android:textSize="12sp"/>
+
+</RelativeLayout><!-- From: file:/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/res/layout/fragment_sign_in.xml -->

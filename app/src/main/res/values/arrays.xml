@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="home_activities">
+        <item>FAB &amp; Toolbar Animation</item>
+        <item>Transparent Toolbar Test</item>
+        <item>Navigation Drawer</item>
+        <item>Toolbar Animation with Image</item>
+        <item>Material Style Tabs</item>
+        <item>Card View Toolbar</item>
+        <item>Quick Return Pattern</item>
+        <item>Reveal Animation</item>
+        <item>Gmail Style List</item>
+    </string-array>
+
+    <string-array name="home_activities_subtitle">
+        <item>G+ like on scroll hide animation</item>
+        <item>Overlaid transparent Toolbar</item>
+        <item>Material Design drawer with scrim</item>
+        <item>Using the new Support Design Library</item>
+        <item>Tab strip with Design Support Lib</item>
+        <item>Nested Toolbar in card</item>
+        <item>UI Pattern using Design Support Lib</item>
+        <item>Circular Reveal for pre Lollipop</item>
+        <item>Colored list icons</item>
+
+    </string-array>
+
+    <string-array name="topic_name">
+        <item></item>
+        <item>Sheena Bora Murder Case: Sanjeev Khanna Seeks Bail</item>
+        <item>Samples of 45 Whale Carcasses Taken for Tests</item>
+        <item>SC Extends Italian Marines Stay Outside India Till April 30</item>
+        <item>15 Killed in Quetta Polio Centre Blast in Pakistan</item>
+        <item>Obama Warns Against Giving Into Election Year Cynicism</item>
+        <item>Tremors Felt in Kashmir</item>
+        <item>R-Day Rehearsals: IAF Personnel Killed by Speeding Car in Kolkata</item>
+        <item>Indra Nooyi Becomes Yale s Biggest Alumni Donor</item>
+        <item>SC Seeks Clarification From Mysore Lab on Maggi Samples</item>
+        <item>SC Cast(e)s Aside Order, Agama Redline Back for Priest Jobs</item>
+        <item>RSS Feels There s no Question of Scrapping Quota: Bhagwat</item>
+        <item>Suspected Al Qaeda Terrorist Arrested in UP s Sambhal District</item>
+        <item>Militants Hurl Grenade at CRPF Bunker in Srinagar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.example.bheemesh.myapplication"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".activities.SplashViewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/NoActionBarFullScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.PostNews"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/home_post_news_activity_title"
+            android:theme="@style/NoActionBarFullScreen">
+        </activity>
+        <activity
+            android:name=".activities.SignOnActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/NoActionBarFullScreen">
+        </activity>
+        <activity
+            android:name=".activities.MainViewActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme">
+        </activity>
+        <activity
+            android:name=".activities.ProfileActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/home_profile_activity_title"
+            android:theme="@style/FullscreenTheme">
+        </activity>
+        <activity
+            android:name=".activities.NewsListActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/home_news_list_activity_title"
+            android:theme="@style/FullscreenTheme">
+        </activity>
+        <activity
+            android:name=".activities.BaseItemDetailsActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name">
+        </activity>
+    </application>
+
+</manifest>

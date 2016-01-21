@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/normal_card_margin"
+                android:gravity="center">
+
+    <ImageView
+        android:id="@+id/iv_attach_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/ic_camera"/>
+
+    <TextView
+        android:id="@+id/tv_attachment_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/iv_attach_image"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/attach_links"
+        android:textColor="@color/color_black_light"
+        android:textSize="12sp"/>
+
+</RelativeLayout><!-- From: file:/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/res/layout/item_image_title_below.xml -->

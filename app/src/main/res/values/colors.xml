@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="color_green">#4CAF79</color>
+    <color name="color_red">#D90000</color>
+    <color name="color_kesari">#F29129</color>
+    <color name="color_gray">#ffe8e8e8</color>
+    <color name="color_gray_dark">#ebebeb</color>
+    <color name="color_gray_full_dark">#9B9B9B</color>
+    <color name="color_home_background">#FAFAFA</color>
+    <color name="color_blue_color">#329fdf</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_black_light">#4D4D4D</color>
+    <color name="sign_on_email_progress_bgcolor">#44FFFFFF</color>
+
+    <!-- Text colors -->
+    <color name="text_red">#D0021B</color>
+    <color name="text_grey">#9B9B9B</color>
+    <color name="text_light_grey">#999999</color>
+
+</resources>

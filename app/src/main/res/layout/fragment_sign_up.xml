@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2015 Newshunt. All rights reserved. -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/transparent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bt_sign_in"
+        android:layout_centerVertical="true"
+        android:fillViewport="true"
+        android:isScrollContainer="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:paddingLeft="@dimen/login_margin"
+            android:paddingRight="@dimen/login_margin">
+
+            <!-- Sign Up -->
+            <TextView
+                android:id="@+id/tv_sign_up"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="40dp"
+                android:layout_alignParentTop="true"
+                android:gravity="center_vertical|left"
+                android:text="@string/sign_up"
+                android:textColor="@color/color_white"
+                android:textSize="22sp"/>
+
+            <!-- Name -->
+            <EditText
+                android:id="@+id/et_user_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:layout_below="@+id/tv_sign_up"
+                android:drawableLeft="@drawable/ic_user_name"
+                android:ems="17"
+                android:hint="@string/user_name"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"
+                android:inputType="textPersonName|textCapWords"/>
+
+            <!-- Email -->
+            <EditText
+                android:id="@+id/et_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/et_user_name"
+                android:drawableLeft="@drawable/ic_email"
+                android:ems="17"
+                android:hint="@string/your_email_address"
+                android:imeOptions="actionDone"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"
+                android:inputType="textPersonName|textCapWords"/>
+
+            <!-- Password -->
+            <EditText
+                android:id="@+id/et_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/et_email"
+                android:drawableLeft="@drawable/ic_password"
+                android:ems="17"
+                android:hint="@string/password"
+                android:imeOptions="actionDone"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"
+                android:inputType="textPersonName|textCapWords"/>
+
+            <!-- Birth Date -->
+            <EditText
+                android:id="@+id/et_birth_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/et_password"
+                android:drawableLeft="@drawable/ic_birthday"
+                android:ems="17"
+                android:hint="@string/date_of_birth"
+                android:imeOptions="actionDone"
+                android:textColor="@color/color_white"
+                android:textColorHint="@color/color_white"
+                android:inputType="date"/>
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/bt_sign_up"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_sign_in"
+        android:background="@color/color_blue_color"
+        android:gravity="center"
+        android:text="@string/join"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"/>
+
+    <TextView
+        android:id="@+id/tv_sign_in"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="@string/already_have_account"
+        android:textColor="@color/color_white"
+        android:textSize="12sp"/>
+
+</RelativeLayout>

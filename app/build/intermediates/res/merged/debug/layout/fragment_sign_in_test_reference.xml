@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (c) 2015 Newshunt. All rights reserved. -->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button_next"
+        android:layout_centerVertical="true"
+        android:fillViewport="true"
+        android:isScrollContainer="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/textview_user_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/margin_large"
+                android:text="@string/almost_done"
+                android:textColor="@color/text_red"
+                android:textSize="18sp"/>
+            <!-- Email -->
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/textview_user_title"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/login_margin"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/textview_email_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/your_email_address"
+                    android:textColor="@color/text_light_grey"
+                    android:textSize="@dimen/text_x_small"/>
+
+                <TextView
+                    android:id="@+id/text_email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/textview_email_title"
+                    android:text=""
+                    android:textColor="@color/text_grey"
+                    android:textSize="@dimen/text_x_medium"/>
+                <!-- set the email address to this view -->
+
+                <!-- Name -->
+                <TextView
+                    android:id="@+id/textview_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/text_email"
+                    android:layout_marginTop="@dimen/margin_x_medium"
+                    android:text="@string/your_name"
+                    android:textColor="@color/text_light_grey"
+                    android:textSize="@dimen/text_x_small"/>
+
+                <EditText
+                    android:id="@+id/edit_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/textview_name"
+                    android:ems="17"
+                    android:inputType="textPersonName|textCapWords"/>
+
+                <!-- Phone Number -->
+                <TextView
+                    android:id="@+id/textview_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/edit_name"
+                    android:layout_marginTop="@dimen/margin_x_medium"
+                    android:text="@string/your_phone_number"
+                    android:textColor="@color/text_light_grey"
+                    android:textSize="@dimen/text_x_small"/>
+
+                <EditText
+                    android:id="@+id/edit_phone"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/textview_number"
+                    android:imeOptions="actionDone"
+                    android:ems="17"
+                    android:inputType="phone"/>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/button_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/text_red"
+        android:gravity="center"
+        android:text="@string/next"
+        android:textAllCaps="false"
+        android:textColor="@android:color/white"/>
+</RelativeLayout><!-- From: file:/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/res/layout/fragment_sign_in_test_reference.xml -->

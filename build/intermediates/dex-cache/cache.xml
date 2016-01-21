@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bheemesh/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/3.7/581aca996554d760c02b281ac1f9efb785de54be/poi-3.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="581aca996554d760c02b281ac1f9efb785de54be">
+        <dex dex="/home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/pre-dexed/debug/poi-3.7-de1ae18d92f3284e58dd7de92f2d188d861185e8.jar" />
+    </item>
+
+</items>

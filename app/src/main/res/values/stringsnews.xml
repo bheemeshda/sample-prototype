@@ -1,0 +1,52 @@
+<resources>
+
+    <string-array name="news_name">
+        <item>Pakistan Must do Justice on Mumbai Attack: US Official</item>
+        <item>Sheena Bora Murder Case: Sanjeev Khanna Seeks Bail</item>
+        <item>Samples of 45 Whale Carcasses Taken for Tests</item>
+        <item>SC Extends Italian Marines Stay Outside India Till April 30</item>
+        <item>15 Killed in Quetta Polio Centre Blast in Pakistan</item>
+        <item>Obama Warns Against Giving Into Election Year Cynicism</item>
+        <item>Tremors Felt in Kashmir</item>
+        <item>R-Day Rehearsals: IAF Personnel Killed by Speeding Car in Kolkata</item>
+        <item>Indra Nooyi Becomes Yale s Biggest Alumni Donor</item>
+        <item>SC Seeks Clarification From Mysore Lab on Maggi Samples</item>
+        <item>SC Cast(e)s Aside Order, Agama Redline Back for Priest Jobs</item>
+        <item>RSS Feels There s no Question of Scrapping Quota: Bhagwat</item>
+        <item>Suspected Al Qaeda Terrorist Arrested in UP s Sambhal District</item>
+        <item>Militants Hurl Grenade at CRPF Bunker in Srinagar</item>
+    </string-array>
+    <string-array name="news_sub_name">
+        <item>Pakistan Must do Justice</item>
+        <item>Sheena Bora Murder Case</item>
+        <item>Samples of 45 Whale Tests</item>
+        <item>SC Extends Italian Marines</item>
+        <item>15 Killed in Quetta </item>
+        <item>Obama Warns </item>
+        <item>Tremors Felt in Kashmir</item>
+        <item>R-Day Rehearsals:</item>
+        <item>Indra Nooyi Becomes Yale s Biggest Alumni Donor</item>
+        <item>SC Seeks Clarification</item>
+        <item>SC Cast(e)s Aside Order</item>
+        <item>RSS Feels Bhagwat</item>
+        <item>Suspected Al Qaeda Terrorist Arrested</item>
+        <item>Militants Hurl Grenade</item>
+    </string-array>
+
+    <string-array name="news_description">
+        <item>The US will keep pressing Pakistan to help India get justice for the Mumbai terror attack, a senior US official said on Wednesday.We will continue to press Pakistan to take the fight to all terrorist networks in the border region and do everything in their power to help India achieve justice for the Mumbai attack which claimed both Indian and American lives, US Under Secretary for Civilian Security, Democracy and Human Rights Sarah B. Sewall said here.</item>
+        <item>Sanjeev Khanna, former husband of Indrani Mukerjea and her co-accused in the Sheena Bora murder case, today filed a bail application in the sessions court here contending that the investigators have failed to find any possible motive to commit the crime on his part. It will come up for hearing on Saturday, said his lawyer Shreyansh Mithare. The application states that Khanna has been wrongly implicated in the case. After reading the charge sheet, the role which is attributed to Khanna cannot be held sufficient to implicate him in the alleged murder.</item>
+        <item>Samples of carcasses of 45 whales that were washed ashore near Tiruchendur beach have been taken for laboratory tests to ascertain the exact cause of their death, Fisheries Department officials today said. Officials today clarified that carcasses of 45 short-finned pilot whales were found washed ashore near Tiruchendur beach in Tuticorin district early yesterday, in a phenomenon they described as unusual. This is an unusual thing...an unusual mortality incident, we have to find out the reason, marine scientist Velumani of the Fisheries Department, had said yesterday.</item>
+        <item>The Supreme Court on Wednesday extended Italian Marine Massimiliano Latorres stay outside India till April 30. Latorre is one of the two Italian Marines who accidentally killed two fishermen off Kerala coast after they mistook their fishing boat for a pirate ship and fired warning shots while protecting their oil tanker in 2012. Kerala Chief Minister Oommen Chandy urged Prime Minister Narendra Modi to interfere and bring the culprits back to the country after it was reported that Latorre will not return to India for their trial. India had granted Latorre, who suffered a stroke while in New Delhi in 2014, a period of leave in Italy for medical treatment, but he was supposed to return by Friday.</item>
+        <item>At least 15 people, mostly security officials, were killed and over 10 others injured today in a bomb blast apparently carried out by a suicide bomber outside a polio vaccination centre in Pakistans southwestern city of Quetta.  The blast was apparently carried out by a suicide bomber, Balochistan Home Minister Mir Sarfaraz Bugti told media after the blast. The deceased include 12 policemen, one paramilitary and two civilians, a police official said. Eyewitness at the site said they heard firing after a loud blast rocked the area.</item>
+        <item>President Barack Obama urged Americans Tuesday night in his final State of the Union address to rekindle their belief in the promise of change that first carried him to the White House, declaring that the country must not allow election-year fear and division to put economic and security progress at risk. All the talk of Americas economic decline is political hot air, Obama said. So is all the rhetoric you hear about our enemies getting stronger and America getting weaker.</item>
+        <item>A moderate intensity earthquake woke residents up in the middle of the night in Kashmir but there were no reports of any damage caused by the tremor.  An earthquake of 5.8 magnitude on the Richter Scale was experienced in Kashmir at 1.35 AM, an official of the MET department said here today. The official said the epicentre of the tremor was at a depth of 220 kilometres in Hindukush region of Afghanistan. The tremor woke people from their sleep and made them rush out of their homes to safety, police officials said.</item>
+        <item>An Air Force officer was killed today after being hit by a speeding car during the Republic Day rehearsal parade here. </item>
+        <item>Indra Nooyi, the Indian-born PepsiCo Chairperson  CEO, has become the Yale School of Managements biggest alumni donor with a landmark gift to endow the deanship at her alma mater.Chennai-born Nooyi, 60, who graduated from the school in 1980, has made the gift to also inaugurate the Fifth Decade Innovation Fund, the school announced.</item>
+        <item>The Supreme Court today asked the government laboratory in Mysore to further clarify whether test reports relating to lead and glutamic acid in Maggi noodles are within permissible parameters under the law.  The apex court passed the order after perusing two communications received from the Mysore laboratory which had carried out the test about the monosodium glutamate (MSG) content in the samples. While Nestle India, makers of Maggi, claimed that the lead content was within the permissible limit prescribed under the Food Safety Act, the Centre said there was a need for comprehensive findings of all other parameters.</item>
+        <item>The Supreme Court on Wednesday gave the nod to the Tamil Nadu government to go ahead with the appointment of Archakas (temple priests) as per the Agamas, treatises relating to its functioning, and reiterated that any deviation from the age-old custom and usage would be an infringement of the freedom of religion. Agamas are treatises on matters like construction of temples, installation of idols and conduct of worship of the Deity. A bench of justices Ranjan Gogoi and N V Ramana said, Such appointment is not violative of the fundamental right to equality but the appointment of Archakas should be in conformity with the Constitutional mandates and principles.</item>
+        <item>Making a complete u-turn from his previous statement that the quota system needed a review, RSS Chief Mohan Bhagwat has said reservation should continue in the country as long as there was social discrimination and asserted that the Sangh was not in favour of scrapping it.  RSS is of the firm opinion that there is no question of scrapping the reservation system. Reservation in the country should continue as long as social discrimination prevails in the Indian society, Bhagwat said while delivering a lecture on social assimilation here last evening. Incidentally, Bhagwats earlier remarks on seeking review of the reservation policy just before the Bihar Assembly polls had stirred a controversy, with many seeing it as one of the main reasons for BJPs debacle in the state elections.</item>
+        <item>A suspected Al Qaeda terrorist was arrested from Sambhal District in Uttar Pradesh on Thursday. He will be produced in Delhis Patiala House court later today. This is the third arrest of a suspected terrorist in two days. Yesterday, two suspected operatives of a terrorist organisation, who were allegedly planning to carry out attacks in the national capital during Christmas and New Year, were detained by the Special Cell of Delhi Police. They were also believed to be natives of Sambhal District.</item>
+        <item>Separatist guerrillas on Thursday hurled a grenade at a paramilitary bunker here, damaging some vehicles on the road.Militants lobed a grenade at a CRPF bunker in Sekidafar Chowk here this morning, a police officer told IANS. The grenade exploded on the road and damaged three private vehicles, the officer added.No reports of any injury to civilians or Central Reserve Police Force (CRPF) troopers have been received in this incident so far, the officer said.</item>
+    </string-array>
+</resources>

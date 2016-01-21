@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:4:5-63
+	android:versionCode
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:6:5-56:19
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:23.0.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.bheemesh.myapplication.activities.SplashViewActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:14:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:15:13-57
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:13:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.bheemesh.myapplication.activities.PostNews
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:21:9-26:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:24:13-66
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:23:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:25:13-57
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:22:13-48
+activity#com.example.bheemesh.myapplication.activities.SignOnActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:29:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:31:13-57
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:28:13-54
+activity#com.example.bheemesh.myapplication.activities.MainViewActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:33:9-38:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:35:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:34:13-56
+activity#com.example.bheemesh.myapplication.activities.ProfileActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:39:9-44:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:42:13-64
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:41:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:40:13-55
+activity#com.example.bheemesh.myapplication.activities.NewsListActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:45:9-50:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:48:13-66
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:47:13-74
+	android:theme
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:49:13-51
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:46:13-56
+activity#com.example.bheemesh.myapplication.activities.BaseItemDetailsActivity
+ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:51:9-55:20
+	android:label
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:54:13-45
+	android:configChanges
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml:52:13-63
+uses-sdk
+INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:23.0.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.astuetz:pagerslidingtabstrip:1.0.1] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/AndroidManifest.xml:2:5-72
+MERGED from [com.android.support:support-v4:23.1.0] /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bheemesh/MyComputer/_Android/AndroidWorkSpace/MyApplication/app/src/main/AndroidManifest.xml

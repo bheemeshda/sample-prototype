@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Knit News</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_btn_text">Refresh</string>
+    <string name="splash_text">Splash</string>
+    <!--activity titles-->
+    <string name="home_profile_activity_title">Profile</string>
+    <string name="home_post_news_activity_title">Knit News</string>
+    <string name="home_news_list_activity_title">News Knit</string>
+
+    <!--sign on strings-->
+    <string name="test_title">Mysore Palace Aramane</string>
+    <string name="test_sub_title">Started in 1600 AD and still one of the best Palace</string>
+    <string name="almost_done">Almost Done</string>
+    <string name="next">Next</string>
+    <string name="your_phone_number">your phone number</string>
+    <string name="your_name">your name</string>
+    <string name="your_email_address">your email address</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="date_of_birth">Birthday</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="dont_have_account">Dont have account ? Sign Up</string>
+    <string name="already_have_account">Already have account? Please Sign In</string>
+    <string name="about">About</string>
+    <string name="join">Join</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="post_news">Post News</string>
+
+
+    <!--attachment strings-->
+    <string name="attach_links">Links</string>
+    <string name="attach_photo">Photo</string>
+    <string name="attach_video">Video</string>
+
+    <!--new post strings-->
+    <string name="title">TITLE</string>
+    <string name="article">ARTICLE</string>
+    <string name="location">Location</string>
+    <string name="your_news_title">Your news title</string>
+    <string name="your_news_article">Write your article</string>
+    <string name="news_title_bar_text">Knit News</string>
+
+
+    <string-array name="place_name">
+        <item>Mysore Maharajah Palace</item>
+        <item>Chamundi Devastana</item>
+        <item>K R S Dam</item>
+        <item>Palace Ground</item>
+        <item>MG Road</item>
+        <item>Ganapathy Devastana sub_name</item>
+        <item>Anjaneya Devastana sub_name</item>
+        <item>Hanumatha Devastana</item>
+        <item>Annamma Devastana sub_name</item>
+        <item>Ranganath swamy Devastana sub_name</item>
+        <item>Venkatesh swamy Devastana</item>
+        <item>K R S Dam Devastana</item>
+        <item>Palace Ground Devastana</item>
+        <item>MG Road Devastana</item>
+    </string-array>
+    <string-array name="place_sub_name">
+        <item>Mysore Maharajah Palace sub_name</item>
+        <item>Chamundi Devastana sub_name</item>
+        <item>K R S Dam sub_name</item>
+        <item>Palace Ground sub_name</item>
+        <item>MG Road sub_name</item>
+        <item>Ganapathy Devastana sub_name</item>
+        <item>Anjaneya Devastana sub_name</item>
+        <item>Hanumatha Devastana sub_name</item>
+        <item>Annamma Devastana sub_name</item>
+        <item>Ranganath swamy Devastana sub_name</item>
+        <item>Venkatesh swamy Devastana sub_name</item>
+        <item>K R S Dam Devastana sub_name</item>
+        <item>Palace Ground Devastana sub_name</item>
+        <item>MG Road Devastana sub_name</item>
+    </string-array>
+
+    <string-array name="place_description">
+        <item>Mysore Maharajah Palace description</item>
+        <item>Chamundi Devastana description</item>
+        <item>K R S Dam description</item>
+        <item>Palace Ground description</item>
+        <item>MG Road description</item>
+        <item>Ganapathy Devastana description</item>
+        <item>Anjaneya Devastana description</item>
+        <item>Hanumatha Devastana description</item>
+        <item>Annamma Devastana description</item>
+        <item>Ranganath swamy Devastana description</item>
+        <item>Venkatesh swamy Devastana description</item>
+        <item>K R S Dam Devastana description</item>
+        <item>Palace Ground Devastana description</item>
+        <item>MG Road Devastana description</item>
+    </string-array>
+
+    <string name="something_about_you">Please write something about you. like : Pick one specific topic, describe it in detail, and use that to introduce yourself. It\'s better to pick one thing and use it to describe yourself in lots of detail, than to give someone a big long list of general topics</string>
+
+</resources>
