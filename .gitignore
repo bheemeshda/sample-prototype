@@ -10,12 +10,18 @@
 
 # Generated files
 bin/
+<<<<<<< HEAD
 /*.iml
+=======
+>>>>>>> e969d2783b528cc11e1ecae07d58d3359a4fd745
 gen/
 
 # Gradle files
 .gradle/
+<<<<<<< HEAD
 /.idea
+=======
+>>>>>>> e969d2783b528cc11e1ecae07d58d3359a4fd745
 build/
 
 # Local configuration file (sdk path, etc)
@@ -31,4 +37,8 @@ proguard/
 .navigation/
 
 # Android Studio captures folder
+<<<<<<< HEAD
 captures/
+=======
+captures/
+>>>>>>> e969d2783b528cc11e1ecae07d58d3359a4fd745
